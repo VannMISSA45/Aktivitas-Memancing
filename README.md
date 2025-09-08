@@ -40,3 +40,5 @@ Setiap aktivitas terdiri dari:
 6. **Keluar**  
    Program berhenti hanya jika user memilih menu keluar.
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/02cc41bf-48ce-4ffb-ba37-a335f24a5e48" />
+
+
